@@ -1,5 +1,5 @@
 """
-SaginOre - Python library for sigmas.
+SaginOre - Python library for sigmaz.
 """
 
 __version__ = "0.1.0"
